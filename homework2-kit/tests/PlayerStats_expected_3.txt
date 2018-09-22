@@ -1,0 +1,10 @@
+guard0 12.810000
+guard9 10.086206
+guard6 9.685534
+guard3 3.961621
+center8 3.738562
+center2 2.798050
+forward1 2.370460
+center5 2.067442
+forward7 1.559792
+forward4 1.063898
